@@ -1,2 +1,2 @@
 # pyHands
-Projeto de Visão Computacional que reconhece os pontos e movimentos das mãos.
+Projeto de Visão Computacional: Hand Tracking com OpenCV e Mediapipe.
